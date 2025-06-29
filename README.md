@@ -47,5 +47,5 @@ El modelo debe producir:
 
 ## ✍️ Autor
 
-Adrián Vacace  
+Adrián Vacacela  
 
