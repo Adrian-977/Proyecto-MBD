@@ -1,7 +1,7 @@
 
 # Predicción del Precio del Petróleo usando Machine Learning
 
-Este repositorio contiene un proyecto de ciencia de datos que implementa un modelo de Machine Learning para predecir el precio del petróleo a partir de una serie temporal histórica. El modelo ha sido desarrollado en Python utilizando una red neuronal LSTM (Long Short-Term Memory) y RC (Reservoir Computing).
+Este repositorio contiene un proyecto de ciencia de datos que implementa modelos de Machine Learning para predecir el precio del petróleo a partir de una serie temporal histórica. El modelo ha sido desarrollado en Python utilizando una red neuronal LSTM (Long Short-Term Memory) y RC (Reservoir Computing).
 
 ## 📁 Estructura del repositorio
 
